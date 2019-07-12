@@ -5,4 +5,4 @@ Based on the description of Pascal's Triangle, create a function that takes numb
 and then prints out Pascal's triangle up to the number of rows specified.
 
 To run type node pascal in command line and it'll run the file. To change the number of lines go into the Pascal.js file. 
-Update the console.log on line 23. 
+On line 23 update the function pascal with the number of lines you would like to use.  
